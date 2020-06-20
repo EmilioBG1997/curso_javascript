@@ -6,11 +6,11 @@
 
 var a = 3;
 var b = 4;
-var result = (a == b || a != b); //will return true because one of the conditions is met.
+let result = (a == b || a != b); //will return true because one of the conditions is met.
 document.write(result + "<br>");
 
-var z = 3;
-var y = 3;
+let z = 3;
+let y = 3;
 result = (z>2 && z == y); //will return true because both of the conditions are met
 document.write(result + "<br>");
 
@@ -22,6 +22,6 @@ document.write(result + "<br>");
 
 //the ternary (?) operator returns the value left to the : if the condition is met, otherwise it 
 //returns the value to the right 
-var age = 17
-var isAdult = (age < 18)?"Too young": "Old enough";
+let age = 17
+let isAdult = (age < 18)?"Too young": "Old enough";
 document.write(isAdult); //will return "too young" because the condition is indeed met.

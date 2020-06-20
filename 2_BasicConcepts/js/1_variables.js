@@ -1,6 +1,6 @@
-var x = 10; 
+let x = 10; 
 
-//the keyword "var" is used to declare a vatiable (in this case simply named "x" and it's value is 10)
+//the keyword "let" is used to declare a vatiable (in this case simply named "x" and it's value is 10)
 //the "=" is called Asignment opeator. and it's function is to asign the value in it's right to the value in it's left.
 
 document.write(x); 
@@ -15,6 +15,6 @@ document.write(x);
 //variable names can't contain special characters such as # or %
 //Variables can't be named as any reserved word, however the names can contain them
 //i.e : var else123 = 10 
-var else123 = 10;
+let else123 = 10;
 
 document.write("<br>" + else123); // the plus sign in this case represents a concatenation
