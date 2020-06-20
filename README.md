@@ -1,4 +1,4 @@
-# curso_javascript
+# javascript_course
 Files used during my javascript learning process.
 
 ## Description
