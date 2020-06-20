@@ -1,4 +1,4 @@
-var name = "emilio";
+let name = "emilio";
 if(name == "milio"){
     document.write("Hi milio");
 }

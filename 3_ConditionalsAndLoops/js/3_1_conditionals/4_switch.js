@@ -2,7 +2,7 @@
 the code look a little cleaner. It will help you eliminate
 multiple "if else if else if else if..." statements
 */
-var day = 8;
+let day = 8;
 switch(day){ //the variable that will be evaluated goes inside the parenthesis
     case 1: //if the variable's value equals 1
         document.write("<p>Today is Monday</p>");//Everything here will be executed

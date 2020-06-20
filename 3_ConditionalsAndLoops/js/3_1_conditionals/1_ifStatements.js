@@ -1,5 +1,5 @@
-var age = 21;
-var adult = 21;
+let age = 21;
+let adult = 21;
 
 if(age >= adult){ //if this condition is met
     document.write("<h3>You're finally an adult (it sucks)</h3>"); //then whatever is inside here will be done.

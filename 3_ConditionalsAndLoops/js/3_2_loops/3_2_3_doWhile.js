@@ -1,4 +1,4 @@
-var i=20;
+let i=20;
 //this code will be executed
 do {  
   document.write(i + ", ");

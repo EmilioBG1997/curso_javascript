@@ -1,5 +1,5 @@
-var bool = true;
-var i = 0
+let bool = true;
+let i = 0
 while(bool){ //everything inside here will be executed until "bool" becomes fal
     if(i == 10){ //when i reaches a value of ten
         document.write("and We reached the end of the loop.");
